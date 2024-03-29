@@ -1,2 +1,2 @@
 # SVM_ML
-Group 92, code from scratch
+Machine Learning Group 92
